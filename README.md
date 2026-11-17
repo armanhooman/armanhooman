@@ -1,109 +1,50 @@
-<div align="center">
+# Hi, I'm Arman 👋
 
-# Hi 👋, I'm Arman Hooman
+Computer Science student focused on **Python, SQL, Data Analysis, and AI Engineering**.
 
-### Computer Science Student | Python Developer | Data Analysis Enthusiast
+I enjoy building practical projects that turn programming and data concepts into working systems. My current focus is strengthening my foundation in databases, data analysis, and artificial intelligence through hands-on projects.
 
-Building practical software, exploring data, and continuously learning modern technologies.
+## Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Python+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things"/>
+- **Languages:** Python, SQL
+- **Databases:** MySQL, SQLite
+- **Data:** Pandas, NumPy, Matplotlib
+- **Tools:** Git, GitHub, VS Code, PyCharm, Jupyter
+- **Currently exploring:** Machine Learning, AI Engineering, intelligent agents
 
-</div>
+## Featured Projects
 
----
+### 🏨 Hotel Management & Reservation Database
+A complete MySQL database project with relational design, analytical queries, views, stored procedures, functions, triggers, transactions, and query optimization.
 
-# 👨‍💻 About Me
+[View repository](https://github.com/armanhooman/hotel-management-sql)
 
-* 🎓 Computer Science Student
-* 🐍 Python Developer
-* 📊 Passionate about Data Analysis & Data Science
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 💡 Love solving real-world problems through programming
-* 📚 Always learning and improving my technical skills
+### 🎬 Movie Data Analysis
+A Python data-analysis project built around a synthetic cinema dataset, including missing-value handling, descriptive statistics, grouped analysis, and multiple visualizations.
 
----
+[View repository](https://github.com/armanhooman/movie-data-analysis-python)
 
-# 🛠️ Technologies & Tools
+### 🩺 Health Check-up Desktop App
+A Tkinter-based Python desktop application that compares entered laboratory values with predefined reference ranges and provides visual summaries and CSV export.
 
-<p align="center">
+[View repository](https://github.com/armanhooman/health-checkup-python-project)
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,pycharm,sqlite"/>
+### 🎓 Student Management System
+A console-based Python project built to practice object-oriented programming, validation, CRUD-style operations, and basic statistics.
 
-</p>
+[View repository](https://github.com/armanhooman/student-management)
 
----
+## What I'm Working Toward
 
-# 📊 Data Analysis Skills
+My long-term direction is **AI Engineering and Data Science**. I'm building that path step by step through Python, SQL, data analysis, machine learning, and practical AI projects.
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Data Cleaning
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-
----
-
-# 🚀 Currently Learning
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Object-Oriented Programming
-* Software Engineering
-* SQL
-
----
-
-# 📈 GitHub Statistics
+## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=armanhooman&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanhooman&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=armanhooman&show_icons=true&hide_border=true" alt="Arman's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanhooman&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
+## Connect
 
-<img src="https://streak-stats.demolab.com?user=armanhooman&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* 📊 Improve my Data Analysis skills
-* 🤖 Learn Machine Learning and AI
-* 💻 Build real-world Python projects
-* 🌍 Contribute to Open Source
-* 🚀 Start my professional career as a Software Developer
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/arman-hooman-b55053309">
-<img src="https://img.shields.io/badge/LinkedIn-Arman%20Hooman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://t.me/armann_hn">
-<img src="https://img.shields.io/badge/Telegram-@armann__hn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Learning, Building, and Growing Every Day."*
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/arman-hooman-b55053309) · [GitHub](https://github.com/armanhooman)
